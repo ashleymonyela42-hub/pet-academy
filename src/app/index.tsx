@@ -30,8 +30,8 @@ const courses = [
     image:
       'https://images.unsplash.com/photo-1558788353-f76d92427f16?w=800',
       heroImage:{
-      width: 100,
-      height: 150
+      width: 50,
+      height: 15
      }, 
     description:
       'Learn how to train dogs effectively using positive and practical training techniques.',
