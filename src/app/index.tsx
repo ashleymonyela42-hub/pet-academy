@@ -29,12 +29,13 @@ const courses = [
     duration: '6 months',
     image:
       'https://images.unsplash.com/photo-1558788353-f76d92427f16?w=800',
-    description:
-      'Learn how to train dogs effectively using positive and practical training techniques.',
-     heroImage:{
+      heroImage:{
       width: 100,
       height: 150
-     } 
+     }, 
+    description:
+      'Learn how to train dogs effectively using positive and practical training techniques.',
+     
   },
   {
     id: '2',
